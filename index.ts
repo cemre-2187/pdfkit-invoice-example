@@ -35,7 +35,7 @@ interface InvoiceData {
 }
 
 function generateInvoice(data: InvoiceData, path: string): void {
-  const doc = new PDFDocument({ margin: 50, size: "A4" });
+  const doc = new PDFDocument({ margin: 50, size: "A4", bufferPages: true });
   doc.pipe(fs.createWriteStream(path));
 
   doc.registerFont("NotoSans", "NotoSans-Regular.ttf");
@@ -158,6 +158,23 @@ function generateInvoice(data: InvoiceData, path: string): void {
     width: 60,
     align: "right",
   });
+
+  // Add page numbers
+  const range = doc.bufferedPageRange();
+  for (let i = range.start; i < range.start + range.count; i++) {
+    doc.switchToPage(i);
+    const pageBottomMargin = doc.page.margins.bottom; // Get current page's bottom margin
+    doc.page.margins.bottom = 0; // Temporarily remove bottom margin to write in that space
+
+    doc.fontSize(8).text(
+      `Page ${i + 1} of ${range.count}`,
+      50, // x-coordinate
+      doc.page.height - pageBottomMargin / 2, // Position baseline in the middle of the original bottom margin
+      { align: "center", width: doc.page.width - 100 }
+    );
+
+    doc.page.margins.bottom = pageBottomMargin; // Restore bottom margin
+  }
 
   doc.end();
   console.log(`Invoice generated at ${path}`);
