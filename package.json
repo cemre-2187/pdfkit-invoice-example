@@ -1,0 +1,30 @@
+{
+  "name": "pdfkit-invoice-example",
+  "version": "1.0.0",
+  "description": "Generate PDF invoices using PDFKit",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemre-2187/pdfkit-invoice-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemre-2187/pdfkit-invoice-example/issues"
+  },
+  "homepage": "https://github.com/cemre-2187/pdfkit-invoice-example#readme",
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.99"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "@types/pdfkit": "^0.12.12",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}

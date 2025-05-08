@@ -1,0 +1,48 @@
+{
+    "invoiceData": [
+        {
+            "company": {
+                "name": "ANVENTURE LLC",
+                "address": "12 Daniel Rd, Suite 318-Mk1",
+                "city": "Fairfield, New Jersey",
+                "zip": "07004"
+            },
+            "invoiceNumber": "AN2025050702",
+            "date": "Apr 30, 2025",
+            "dueDate": "Apr 30, 2025",
+            "billTo": {
+                "name": "GM GROUP",
+                "contactPerson": "Gülseren Özotraç",
+                "address": "Balat Mah. Sihhiye Cad. Ofis 4200 No:2/18 Balat/Bursa",
+                "taxId": "Nilüfer V.D. : 5040372224"
+            },
+            "items": [
+                { "description": "Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan  18000", "quantity": 3, "rate": 11.00, "amount": 33.00 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL - Gildan 64000 - Kısa Kollu Tişört", "quantity": 4, "rate": 6.60, "amount": 26.40 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+               
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
+                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
+               
+                { "description": "Design", "quantity": 2, "rate": 2.00, "amount": 4.00 }
+            ],
+            "subtotal": 105.20,
+            "tax": 0.00,
+            "shipping": 99.18,
+            "total": 204.38,
+            "amountPaid": 204.38,
+            "balanceDue": 0.00
+        }
+    ]
+}
