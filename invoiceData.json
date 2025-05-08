@@ -17,31 +17,24 @@
                 "taxId": "Nilüfer V.D. : 5040372224"
             },
             "items": [
-                { "description": "Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan Sweatshirt - S, M, L, XL - Gildan  18000", "quantity": 3, "rate": 11.00, "amount": 33.00 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL - Gildan 64000 - Kısa Kollu Tişört", "quantity": 4, "rate": 6.60, "amount": 26.40 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-               
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-                { "description": "T-shirt Short Sleeve - S, M, L, XL -  Comfort Colors 1717 - Kısa Kollu Tişört", "quantity": 3, "rate": 9.90, "amount": 29.70 },
-                { "description": "T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa Kollu Tişört T-shirt Short Sleeve - 2XL - Comfort Colors 1717 - Kısa ", "quantity": 1, "rate": 12.10, "amount": 12.10 },
-               
-                { "description": "Design", "quantity": 2, "rate": 2.00, "amount": 4.00 }
-            ],
-            "subtotal": 105.20,
+                { "description": "Web Development Services - Initial Setup", "quantity": 1, "rate": 1200.00, "amount": 1200.00 },
+                { "description": "Custom Feature Implementation - Module A", "quantity": 10, "rate": 75.00, "amount": 750.00 },
+                { "description": "Graphic Design - Logo and Branding Package", "quantity": 1, "rate": 800.00, "amount": 800.00 },
+                { "description": "Content Writing - Blog Posts (5 articles)", "quantity": 5, "rate": 150.00, "amount": 750.00 },
+                { "description": "SEO Optimization Services - Monthly Retainer", "quantity": 1, "rate": 500.00, "amount": 500.00 },
+                { "description": "Consulting Hours - Technical Support", "quantity": 5, "rate": 100.00, "amount": 500.00 },
+                { "description": "Software License - Annual Subscription", "quantity": 1, "rate": 299.00, "amount": 299.00 },
+                { "description": "Hardware - New Laptop Model XYZ", "quantity": 1, "rate": 1500.00, "amount": 1500.00 },
+                { "description": "Cloud Hosting Services - Basic Plan", "quantity": 1, "rate": 50.00, "amount": 50.00 },
+                { "description": "Project Management Fee", "quantity": 1, "rate": 350.00, "amount": 350.00 },
+                { "description": "SSL Certificate - Standard", "quantity": 1, "rate": 70.00, "amount": 70.00 },
+                { "description": "Maintenance and Support - Quarterly", "quantity": 1, "rate": 450.00, "amount": 450.00 }
+      ],
+            "subtotal": 7859.00,
             "tax": 0.00,
             "shipping": 99.18,
-            "total": 204.38,
-            "amountPaid": 204.38,
+            "total": 7958.18,
+            "amountPaid": 7958.18,
             "balanceDue": 0.00
         }
     ]

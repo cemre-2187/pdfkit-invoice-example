@@ -94,7 +94,7 @@ function generateInvoice(data: InvoiceData, path: string): void {
     const rowHeight = Math.max(20, descriptionHeight);
 
     // If row will exceed page, add new page and redraw header & table header
-    if (y + rowHeight + 100 > doc.page.height - doc.page.margins.bottom) {
+    if (y + rowHeight + 150 > doc.page.height - doc.page.margins.bottom) {
       doc.addPage();
       drawHeader();
       drawTableHeader(tableTop);
